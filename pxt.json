@@ -1,5 +1,5 @@
 {
-    "name": "sensorquick",
+    "name": "sensor",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -8,11 +8,15 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "Sensor.ts",
+        "SensorVar.ts",
+        "SensorMore.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:da9d3a9a-ed6c-4188-985b-a28d034a80fb"
 }
